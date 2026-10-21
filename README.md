@@ -1,9 +1,9 @@
 
-# 📚 TADA BOOK — Phân tích dữ liệu và dự báo sách bán chạy
+# TADA BOOK — Phân tích dữ liệu và dự báo sách bán chạy
 
 **Dự án phân tích dữ liệu toàn diện nhằm khám phá đặc điểm kinh doanh của danh mục sách, xác định các yếu tố liên quan đến Bestseller và đề xuất giải pháp hỗ trợ ra quyết định dựa trên dữ liệu.**
 
-## 📌 1. Tổng quan dự án
+## 1. Tổng quan dự án
 
 TADA BOOK là dự án phân tích dữ liệu tập trung vào danh mục sách, giá bán, mức giảm giá, đánh giá của khách hàng, danh mục sản phẩm, nhà xuất bản và tình trạng sách bán chạy.
 
@@ -15,7 +15,7 @@ Dự án được triển khai theo quy trình phân tích dữ liệu từ làm
 
 Mục tiêu cuối cùng không chỉ là trình bày số liệu mà còn chuyển hóa kết quả phân tích thành thông tin có giá trị, hỗ trợ doanh nghiệp đưa ra quyết định về sản phẩm, giá bán và hoạt động marketing.
 
-## 🎯 2. Mục tiêu dự án
+## 2. Mục tiêu dự án
 
 - Tìm hiểu cấu trúc, đặc điểm và chất lượng dữ liệu sách.
 - Làm sạch và chuẩn hóa dữ liệu nhằm nâng cao tính nhất quán.
@@ -25,7 +25,7 @@ Mục tiêu cuối cùng không chỉ là trình bày số liệu mà còn chuy�
 - Trực quan hóa kết quả bằng Power BI.
 - Đề xuất các hành động kinh doanh dựa trên insight và kết quả phân tích.
 
-## 🛠️ 3. Công nghệ và công cụ sử dụng
+## 3. Công nghệ và công cụ sử dụng
 
 | Công cụ | Mục đích sử dụng |
 |---|---|
@@ -38,7 +38,7 @@ Mục tiêu cuối cùng không chỉ là trình bày số liệu mà còn chuy�
 
 *Danh sách thư viện cần được đối chiếu với Notebook thực tế trước khi công bố.*
 
-## 🔄 4. Quy trình thực hiện dự án
+## 4. Quy trình thực hiện dự án
 
 ### 4.1. Tìm hiểu và làm sạch dữ liệu
 
@@ -114,7 +114,7 @@ Các nội dung phân tích hướng đến:
 
 Dashboard đóng vai trò kết nối kết quả phân tích dữ liệu với nhu cầu theo dõi và đánh giá hoạt động kinh doanh.
 
-## 💡 5. Giá trị kinh doanh và định hướng hành động
+## 5. Giá trị kinh doanh và định hướng hành động
 
 Dựa trên kết quả phân tích thực tế, doanh nghiệp có thể xem xét các hướng hành động sau:
 
@@ -136,7 +136,7 @@ Sử dụng mô hình dự báo như một nguồn thông tin tham khảo để 
 
 *Các hướng hành động trên là định hướng đề xuất. Hiệu quả thực tế cần được kiểm chứng bằng dữ liệu vận hành và kết quả kinh doanh.*
 
-## 📂 6. Cấu trúc sản phẩm bàn giao
+## 6. Cấu trúc sản phẩm bàn giao
 
 Repository bao gồm các thành phần chính:
 
@@ -148,7 +148,7 @@ Repository bao gồm các thành phần chính:
 
 Bạn có thể mở Notebook để xem quy trình xử lý và phân tích, tham khảo file SQL để kiểm tra logic truy vấn, hoặc sử dụng Power BI Desktop để tương tác với dashboard.
 
-## 📈 7. Kết quả và bài học kinh nghiệm
+## 7. Kết quả và bài học kinh nghiệm
 
 Thông qua dự án, tôi có cơ hội thực hành quy trình phân tích dữ liệu từ đầu đến cuối:
 
@@ -161,7 +161,7 @@ Thông qua dự án, tôi có cơ hội thực hành quy trình phân tích dữ
 
 Dự án thể hiện khả năng kết hợp kỹ năng kỹ thuật với tư duy phân tích nhằm hỗ trợ ra quyết định dựa trên dữ liệu.
 
-## 👤 8. Tác giả
+## 8. Tác giả
 
 **Lương Quốc Hào**
 
